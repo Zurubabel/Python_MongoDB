@@ -23,6 +23,8 @@ Ok, sei que são vídeos sobre Python e MongoDB, mas alguns exemplos serão feit
 
 Ah, o comando para baixar o pyodbc no Anaconda é ***conda install -c anaconda pyodbc***
 
-### [Aula 3 - Conectando o Python no MongoDB (Disponível: 28/02/2019 10:00)](https://youtu.be/ePQTs3Em5HY)
+### [Aula 3 - Conectando o Python no MongoDB (Disponível: 28/02/2019 09:00)](https://youtu.be/ePQTs3Em5HY)
 
 Nesta vídeo aula de Python + MongoDB eu demonstro como conectar no MongoDB e como visualizar os dados através do Compass Comunity.
+
+### [Aula 4 - CRUD Inserindo dados com insert one e insert many (Disponível: 28/02/2019 21:00)](https://youtu.be/ePQTs3Em5HY)
