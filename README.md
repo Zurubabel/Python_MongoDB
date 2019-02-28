@@ -17,5 +17,9 @@ Nesta vídeo aula eu indico quais são os programas que irei usar durante os ví
 
 Nesta vídeo aula de Python + MongoDB eu explico algumas diferenças entre a estrutura do MongoDB e de uma base de dados relacionais, tais quais SQL Server e MySQL.
 
+### [Aula 2 - Conectando o Python no SQL Server via pyodbc](https://youtu.be/q12nwR0EQiE)
 
+Ok, sei que são vídeos sobre Python e MongoDB, mas alguns exemplos serão feitos no SQL Server, então vou mostrar como faz a conexão (e fora que foi uma desgraça pra aprender a fazer isso, então fica a dica. Hahaha)
+
+Ah, o comando para baixar o pyodbc no Anaconda é ***conda install -c anaconda pyodbc***
 
